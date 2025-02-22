@@ -22,6 +22,7 @@ Imagine you are organizing a long-awaited adventure. To keep your travel plans i
 ```
 - Paris: Visit the Eiffel Tower and Louvre Museum
 - Rome: Explore the Colosseum and Vatican City
+```
 
 
 
