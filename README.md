@@ -32,27 +32,21 @@ Imagine you are organizing a long-awaited adventure. To keep your travel plans i
 
 ```
 
-Commit Itinerary Changes:
-Stage only the changes in itinerary.txt and commit with the message:
-"Add initial travel destinations and activities"
+**8. Make a new commit,** including **ONLY the changes from the `itinerary.txt` file.**  The commit message should be "add itinerary"
 
-Commit Budget Changes:
-Stage only the changes in budget.txt and commit with the message:
-"Add initial budget estimates"
+**9. Make a second commit** including **ONLY the changes to the `budget.txt` file.**  It should have the commit message "add budget"
 
-Update Both Files:
-
-Append a new line to itinerary.txt:
-diff
-Copy
+**10. Append a new line to itinerary.txt:**
+```
 - Berlin: Tour the Brandenburg Gate and Museum Island
-Modify budget.txt by updating the Paris budget to $1600 and adding:
-bash
-Copy
-- Berlin: $1000
-Commit Combined Changes:
-Stage the changes from both files and commit with the message:
-"Update itinerary with Berlin and revise budget details"
+```
 
-Review Commit History:
-Use a Git command (for example, git log --oneline) to display your commit history. You should see exactly 4 commits!
+**11.Modify budget.txt** by updating the Paris budget to $1600 and adding:
+
+```
+- Berlin: $1000
+```
+
+**12.** Stage the changes from both files and commit with the message: **"Update itinerary with Berlin and revise budget details"**
+
+**13. Use a Git command to display a list of the commits. You should see 4!**
