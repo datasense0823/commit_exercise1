@@ -24,15 +24,14 @@ Imagine you are organizing a long-awaited adventure. To keep your travel plans i
 - Rome: Explore the Colosseum and Vatican City
 ```
 
+**7. In the Budget File add below lines**
 
-
-Add Budget Details:
-Open budget.txt and add:
-
-bash
-Copy
+```
 - Paris: $1500
 - Rome: $1200
+
+```
+
 Commit Itinerary Changes:
 Stage only the changes in itinerary.txt and commit with the message:
 "Add initial travel destinations and activities"
