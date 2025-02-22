@@ -11,10 +11,13 @@ Imagine you are organizing a long-awaited adventure. To keep your travel plans i
 
 **2.Initialize the Repository:** Initialize a new git repo inside of the TravelPlanner folder (make sure you're not already inside of a Git repo!)
 
-Create Initial Files:
+**3.Create Initial Files:** Create a file named itinerary.txt
 
-Create a file named itinerary.txt
-Create another file named budget.txt
+**4.** Create another file named budget.txt
+
+**5.** Make a commit that includes both empty files.  The message should be "itinerary and budget"
+
+
 Make the Initial Commit:
 Stage both empty files and commit them with the message:
 "Initialize travel itinerary and budget files"
