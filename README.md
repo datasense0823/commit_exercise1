@@ -7,4 +7,56 @@ Imagine you are organizing a long-awaited adventure. To keep your travel plans i
 
 ## Instructions
 
-**1. Create the Project Folder:** Create a new folder named TravelPlanner.
+Create the Project Folder:
+Create a new folder named TravelPlanner.
+
+Initialize the Repository:
+Open your terminal, navigate to the TravelPlanner folder, and run git init to initialize a new Git repository.
+(Ensure you’re not already in another Git repository.)
+
+Create Initial Files:
+
+Create a file named itinerary.txt
+Create another file named budget.txt
+Make the Initial Commit:
+Stage both empty files and commit them with the message:
+"Initialize travel itinerary and budget files"
+
+Add Itinerary Details:
+Open itinerary.txt and add the following lines:
+
+diff
+Copy
+- Paris: Visit the Eiffel Tower and Louvre Museum
+- Rome: Explore the Colosseum and Vatican City
+Add Budget Details:
+Open budget.txt and add:
+
+bash
+Copy
+- Paris: $1500
+- Rome: $1200
+Commit Itinerary Changes:
+Stage only the changes in itinerary.txt and commit with the message:
+"Add initial travel destinations and activities"
+
+Commit Budget Changes:
+Stage only the changes in budget.txt and commit with the message:
+"Add initial budget estimates"
+
+Update Both Files:
+
+Append a new line to itinerary.txt:
+diff
+Copy
+- Berlin: Tour the Brandenburg Gate and Museum Island
+Modify budget.txt by updating the Paris budget to $1600 and adding:
+bash
+Copy
+- Berlin: $1000
+Commit Combined Changes:
+Stage the changes from both files and commit with the message:
+"Update itinerary with Berlin and revise budget details"
+
+Review Commit History:
+Use a Git command (for example, git log --oneline) to display your commit history. You should see exactly 4 commits!
