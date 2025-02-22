@@ -7,12 +7,9 @@ Imagine you are organizing a long-awaited adventure. To keep your travel plans i
 
 ## Instructions
 
-Create the Project Folder:
-Create a new folder named TravelPlanner.
+**1. Create the Project Folder:** Create a new folder named **TravelPlanner**.
 
-Initialize the Repository:
-Open your terminal, navigate to the TravelPlanner folder, and run git init to initialize a new Git repository.
-(Ensure you’re not already in another Git repository.)
+**2.Initialize the Repository:** Initialize a new git repo inside of the TravelPlanner folder (make sure you're not already inside of a Git repo!)
 
 Create Initial Files:
 
