@@ -1,4 +1,4 @@
-# Committing Exercise 1
+# Github Workshop: Committing Exercise 1
 
 ## Scenario
 
